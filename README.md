@@ -1,0 +1,4 @@
+## Deep Q-Network on PyTorch
+This is an implementation of [Deep Q-Network](https://storage.googleapis.com/deepmind-media/dqn/DQNNaturePaper.pdf), a deep learning variant of the Q-learning algorithm for machine learning, developed by [Google DeepMind](https://deepmind.com/). A very good explanation of Reinforcement Learning, Q-Networks and particular Deep Q-Network can be found [here](https://towardsdatascience.com/introduction-to-various-reinforcement-learning-algorithms-i-q-learning-sarsa-dqn-ddpg-72a5e0cb6287).  
+The implemention is inspired and partially based on [this one](https://github.com/jaidmin/pytorch-q-learning). Besides I used some ideas from [this repository](https://github.com/Shmuma/ptan/tree/master/samples/dqn_speedup) and Atari wrappers from [OpenAI Baselines repositories](https://github.com/openai/baselines/).  
+I implemented it in a form of Juypter Notebook to try the things fast. It can be used a good entry point for fürther enhancements.
